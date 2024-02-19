@@ -1598,7 +1598,7 @@
     (property "Reference" "U1" (at 90.17 107.315 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MMC5633NJ" (at 90.17 109.855 0)
+    (property "Value" "MMC5603NJ" (at 90.17 109.855 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_BGA:WLP-4_0.86x0.86mm_P0.4mm" (at 82.55 114.3 0)
