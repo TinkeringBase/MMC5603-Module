@@ -1,6 +1,6 @@
-[English](https://github.com/FTIndustries/MMC5603-Module/blob/main/readme.md)
-# FTIndustries BMI270 IMU breakout
-![미리보기](https://github.com/FTIndustries/MMC5603-Module/blob/main/3dpreview.png?raw=true)\
+[English](https://github.com/TinkeringBase/MMC5603-Module/blob/main/readme.md)
+# TinkeringBase BMI270 IMU breakout
+![미리보기](https://github.com/TinkeringBase/MMC5603-Module/blob/main/3dpreview.png?raw=true)\
 MEMSIC의 MMC5603NJ Anisotropic Magneto-Resistive (AMR) 자기 센서를 사용한 센서 브레이크아웃 모듈입니다. Sparkfun Qwiic 시스템을 지원합니다.\
 높은 정확성의 3D 자기 데이터를 제공합니다.
 
