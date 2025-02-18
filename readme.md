@@ -1,6 +1,6 @@
-[한국어](https://github.com/FTIndustries/MMC5603-Module/blob/main/readme-ko.md)
-# FTIndustries MMC5603NJ Magnetometer breakout
-![preview](https://github.com/FTIndustries/MMC5603-Module/blob/main/3dpreview.png?raw=true)\
+[한국어](https://github.com/TinkeringBase/MMC5603-Module/blob/main/readme-ko.md)
+# TinkeringBase MMC5603NJ Magnetometer breakout
+![preview](https://github.com/TinkeringBase/MMC5603-Module/blob/main/3dpreview.png?raw=true)\
 Sensor breakout using MEMSIC's MMC5603NJ Anisotropic Magneto-Resistive (AMR) magnetometer, supports Sparkfun Qwiic system. \
 It provides high accuracy of magnetic field data in 3D.
 
